@@ -1,4 +1,6 @@
-This is a Routes as a MODAL project Created by [`zain-rajpoot`](https://github.com/zain-rajpoot/).
+This is a Routes as a MODAL project
+
+[`zain-rajpoot`](https://github.com/zain-rajpoot/).
 
 ## Getting Started
 
@@ -15,3 +17,5 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+Credit to / or sreated by [https://github.com/vercel/nextgram](https://github.com/vercel/nextgram)
