@@ -18,4 +18,4 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-Credit to / or sreated by [https://github.com/vercel/nextgram](https://github.com/vercel/nextgram)
+Credit to / or created by [https://github.com/vercel/nextgram](https://github.com/vercel/nextgram)
